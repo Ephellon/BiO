@@ -13,11 +13,19 @@ For now, the only available option is to open ```dev-tools/inspector.html``` and
 - ```dev-tools/```
   - ```chrome-extension/``` __This holds AdBlock__
     - ```oidhhegpmlfpoeialbgcdocjalghfpkp/```
+      - ```ext/```
+        - ```common.js```
+        - ```content.js```
+        - ```devtools.js```
       - ```icons/```
         - ```detailed/```
           - ```adp-48.png``` __AdBlock Icon (48 x 48)__
+      - ```skin/```
+        - ```devtools-panel.css```
       - ```devtools.html``` __AdBlock's HTML__
       - ```devtools.js``` __AdBlock's JavaScript__
+      - ```devtools-panel.html```
+      - ```devtools-panel.js```
   - ```Images/```
     - ```chromeDisabledSelect.png``` __Chevron down icon used by the _Settings_ window__
     - ```chromeSelect.png``` __Chevron down icon used by the _Settings_ window__
