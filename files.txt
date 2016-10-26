@@ -8,8 +8,7 @@ dev-tools [
       ]
     ]
     icons | "dev-tools/chrome-extension/oidhhegpmlfpoeialbgcdocjalghfpkp/icons" [
-      detailed [
-        "dev-tools/"
+      detailed | "dev-tools/chrome-extension/oidhhegpmlfpoeialbgcdocjalghfpkp/icons/detailed" [
         adp-48.png
       ]
     ]
