@@ -1,0 +1,57 @@
+dev-tools [
+  chrome-extension [
+    oidhhegpmlfpoeialbgcdocjalghfpkp [
+      ext [
+        common.js
+        content.js
+        devtools.js
+      ]
+    ]
+    icons [
+      detailed [
+        adp-48.png
+      ]
+    ]
+    skin [
+      devtools-panel.css
+    ]
+    devtools.html
+    devtools.js
+    devtools-panel.html
+    devtools-panel.js
+  ]
+  Images [
+    chromeDisabledSelect.png
+    chromeSelect.png
+    radioDot.png
+    resourcesTimeGraphIcon.png
+    securityStateInsecure.png
+    securityStateNeutral.png
+    securityStateSecure.png
+    toolbarButtonGlyphs.png
+  ]
+  inspector.html
+  inspector.js
+  accessibility_module.js
+  animation_module.js
+  audits_module.js
+  components_lazy_module.js
+  console_module.js
+  devices_module.js
+  diff_module.js
+  elements_module.js
+  es_tree_module.js
+  layers_module.js
+  network_module.js
+  profiler_module.js
+  resources_frame_module.js
+  sass_module.js
+  security_module.js
+  settings_module.js
+  snippets_module.js
+  source_frame_module.js
+  sources_module.js
+  timeline_model_module.js
+  timeline_module.js
+  ui_lazy_module.js
+]
