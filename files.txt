@@ -1,18 +1,19 @@
 dev-tools [
-  chrome-extension [
-    oidhhegpmlfpoeialbgcdocjalghfpkp [
-      ext [
+  chrome-extension | "dev-tools/chrome-extension" [
+    oidhhegpmlfpoeialbgcdocjalghfpkp | "dev-tools/chrome-extension/oidhhegpmlfpoeialbgcdocjalghfpkp" [
+      ext | "dev-tools/chrome-extension/oidhhegpmlfpoeialbgcdocjalghfpkp/ext" [
         common.js
         content.js
         devtools.js
       ]
     ]
-    icons [
+    icons | "dev-tools/chrome-extension/oidhhegpmlfpoeialbgcdocjalghfpkp/icons" [
       detailed [
+        "dev-tools/"
         adp-48.png
       ]
     ]
-    skin [
+    skin | "dev-tools/chrome-extension/oidhhegpmlfpoeialbgcdocjalghfpkp/skin" [
       devtools-panel.css
     ]
     devtools.html
@@ -20,7 +21,7 @@ dev-tools [
     devtools-panel.html
     devtools-panel.js
   ]
-  Images [
+  Images | "dev-tools/Images" [
     chromeDisabledSelect.png
     chromeSelect.png
     radioDot.png
